@@ -272,7 +272,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(255, 255, 255, 0.7);
 }
 #fh5co-features .feature-left p:last-child {
-  margin-bottom: 0;
+  margin-bottom: 10;
 }
 #fh5co-features .feature-left p a {
   color: #000 !important;
