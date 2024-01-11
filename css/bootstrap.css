@@ -141,7 +141,21 @@ textarea {
 }
 
 button {
-  overflow: visible;
+  padding: 5px 10px;
+  border-radius: 10px;
+  /* Adjust the border-radius for the desired roundness */
+  color: #fff;
+  /* White text */
+  background-color: #98d2a5;
+  /* Sage green background color */
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #79aa84;
+  /* Sage green background color on hover */
 }
 
 button,
