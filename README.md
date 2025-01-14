@@ -16,9 +16,13 @@ I graduated from the University of Michigan with a Bachelor of Science in Comput
 ## Work Experience
 
 Ford Motor Company: Enhanced Electric Vehicle API security and developed a secure, well-documented database system.
+
 Boncor Medical LLC: Boosted app performance and created geospatial mobile features, leading to higher user engagement.
+
 University of Michigan: Revamped the career center website, increasing access to resources for students.
+
 Freelance Project: Built a multiplayer academic gaming platform used by over 500 students, hosted on AWS.
+
 Association of Chinese Americans: Designed an interactive website that increased traffic by 35% and streamlined data management to cut operational costs.
 
 ## Projects
